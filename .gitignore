@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+*.o
+*.so
+src/tidysqadv.dll
+src/main.cpp
+.idea/
+cmake-build-debug/
+CMakeLists.txt
+inst/doc
