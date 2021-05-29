@@ -5,7 +5,7 @@
 *.Rproj
 *.o
 *.so
-src/tidysqadv.dll
+src/kernelForLeon.dll
 src/main.cpp
 .idea/
 cmake-build-debug/
