@@ -1,12 +1,11 @@
 Package: kernelForLeon
 Type: Package
-Title: What the Package Does in One 'Title Case' Line
-Version: 1.0
+Title: Computes a Certain Similarity Matrix on Biological Sequences
+Version: 0.0.1
 Date: 2021-05-29
-Author: Your Name
-Maintainer: Your Name <your@email.com>
-Description: One paragraph description of what the package does as one or more full
-         sentences.
+Author: Laura
+Maintainer: Laura <erdaradun.gaztea@gmail.com>
+Description: Computes a similarity matrix for biological sequences without alignment, using a lot of k-mers instead.
 License: GPL (>= 2)
 Imports: Rcpp (>= 1.0.6),
          checkmate
